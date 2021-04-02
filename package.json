@@ -1,0 +1,24 @@
+{
+  "name": "timberjs",
+  "version": "1.0.0",
+  "description": "Timber-js is a lighrweight and open to use client side error logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilanjansiromani/timberjs.git"
+  },
+  "keywords": [
+    "logger",
+    "open-logger",
+    "client-logger"
+  ],
+  "author": "Nilanjan Siromani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilanjansiromani/timberjs/issues"
+  },
+  "homepage": "https://github.com/nilanjansiromani/timberjs#readme"
+}
